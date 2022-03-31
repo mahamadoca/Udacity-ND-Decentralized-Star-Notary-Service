@@ -1,6 +1,15 @@
-# ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
+# Project of "Decentralized Star Notary Service" for Udacity Blockchain nanodegree
+
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
+### Versions Used
+ openzeppelin-solidity@2.3.0
+ truffle-hdwallet-provider@1.0.17
+ truffle@5.5.6
+ web3@1.7.1
+ Node v12.22.11
+ 
+    
 ### ToDo 
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
