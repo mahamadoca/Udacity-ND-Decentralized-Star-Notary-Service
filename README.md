@@ -2,6 +2,11 @@
 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
+### Contract info
+contract address: 0x218847a25f4c718e34fbeb247d056bd46423505e
+ERC-721 Token Name  "Star Registry"
+Your ERC-721 Token Symbol : "SRT"
+
 ### Versions Used
  openzeppelin-solidity@2.3.0
  truffle-hdwallet-provider@1.0.17
